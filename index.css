@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(124, 52, 196);
+}
+
+.login {
+    width: 250px;
+    height: 420px;
+    text-align: center;
+    background-color: rgb(7, 165, 165);
+    padding: 10px;
+    display: block;
+    margin: auto;
+    border: solid black;
+    box-shadow: -1px 10px 21px 17px rgba(0,0,0,0.88);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#imagen-login {
+    width: 50%;
+
+}
+
+.input {
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+}
